@@ -9,7 +9,7 @@ choice = input("Farenheit")
 choice = input("Celsius")
 
 # 3. Ask the user for a number to convert
-temp = int(input(""))
+temp = int(input("number to convert"))
 
 # 4. Convert the number to its respective temperature
 farenheit = ["farenheit", "f"]
